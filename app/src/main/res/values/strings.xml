@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Food Ordering App</string>
+    <string-array name="food_item">
+        <item>Chicken Biriyani</item>
+        <item>Chili Chicken</item>
+        <item>Chili Paneer</item>
+        <item>French Fries</item>
+        <item>Fried Chicken</item>
+        <item>Momo</item>
+        <item>Mutton Biriyani</item>
+        <item>Pizza</item>
+        <item>Fried Rice</item>
+    </string-array>
+    <string name="chicken_biriyani">Chicken Biryani is a mixed rice dish with its origins among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and meat (chicken, beef, goat, pork, lamb, prawn, or fish), and sometimes, in addition, eggs and/or vegetables such as potatoes in certain regional varieties.
+        Biryani is popular throughout the Indian subcontinent, as well as among its diaspora.\n
+    </string>
+    <string name="chicken_biriyani_price">Full Plate 80 INR, Half Plate 40 INR</string>
+    <string name="chili_chicken">Chilli chicken is a popular Indo-Chinese dish of chicken of Hakka Chinese heritage. In India, this may include a variety of dry chicken preparations.
+        Though mainly boneless chicken is used in this dish, some people also use bone-in chicken too</string>
+    <string name="chili_chicken_price"> 120 INR</string>
+    <string name="chili_paneer">Chilli Paneer Chilli Paneer is an Indo- Chinese cuisine or we can say it is an Indian duped Chinese cuisine where we have replaced traditional Chinese core ingredient such as fish, chicken etc.
+        by our traditional and evergreen and all time favorite Paneer.</string>
+    <string name="chili_paneer_price"> 100 INR</string>
+    <string name="french_fries">French fries, or simply fries (North American English), chips (British and Commonwealth English, Hiberno-English), finger chips (Indian English), or French-fried potatoes, are batonnet or allumette-cut deep-fried potatoes. French fries are served hot, either soft or crispy, and are generally eaten
+        as part of lunch or dinner or by themselves as a snack, and they commonly appear on the menus of dine</string>
+    <string name="french_fries_price">60 INR</string>
+    <string name="fried_chicken">Southern fried chicken, also simply known as fried chicken, is a dish consisting of chicken pieces that have been coated in a seasoned batter and pan-fried, deep fried, pressure fried, or air frying. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat.
+        Broiler chickens are most commonly used</string>
+    <string name="fried_chicken_price">90 INR</string>
+    <string name="momo">Momo is a type of East and South Asian steamed filled dumpling. Momos are native to Southwest Chinese region of Tibet as well as Bhutan, Nepal, North Indian region of Ladakh, Northeast Indian regions of Sikkim,
+        Assam, and Arunachal Pradesh, and East Indian region of Darjeeling.</string>
+    <string name="momo_price">40 INR</string>
+    <string name="mutton_biriyani">Mutton Biryani is a mixed rice dish with its origins among the Muslims of the Indian subcontinent. It is made with Indian spices, rice, and meat (chicken, beef, goat, pork, lamb, prawn, or fish), and sometimes, in addition, eggs and/or vegetables such as potatoes in certain regional varieties.
+        Biryani is popular throughout the Indian subcontinent, as well as among its diaspora.\n</string>
+    <string name="mutton_biriyani_price">170 INR</string>
+    <string name="pizza">The history of pizza begins in antiquity, when various ancient cultures produced basic flatbreads with several toppings. A precursor of pizza was probably the focaccia, a flat bread known to the Romans as panis focacius, to which toppings were then added. Modern pizza evolved from similar flatbread dishes in Naples,
+        Italy, in the 18th or early 19th century.</string>
+    <string name="pizza_price">90 INR</string>
+    <string name="fried_rice">Fried rice is a dish of cooked rice that has been stir-fried in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish. Fried rice is a popular component of East Asian, Southeast Asian and certain South Asian cuisines,
+        as well as a staple national dish of Indonesia and Malaysia</string>
+    <string name="fried_rice_price">120 INR</string>
+</resources>

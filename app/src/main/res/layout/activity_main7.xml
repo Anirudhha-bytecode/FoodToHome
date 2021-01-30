@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20sp"
+    android:background="#519ABD"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity7">
+    <EditText
+        android:hint="username"
+        android:textSize="20sp"
+        android:textColor="#F8F1F1"
+        android:inputType="text"
+        android:textColorHint="#F3EBEB"
+        android:textStyle="bold"
+        android:id="@+id/username1"
+        android:layout_margin="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+    <EditText
+        android:hint="password"
+        android:textSize="20sp"
+        android:textColor="#F1E8E8"
+        android:inputType="textPassword"
+        android:textStyle="bold"
+        android:id="@+id/password1"
+        android:textColorHint="#F3EBEB"
+        android:layout_margin="20sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </EditText>
+    <Button
+        android:text="signin"
+        android:background="@drawable/custom_button"
+        android:layout_width="wrap_content"
+        android:id="@+id/bttnsignin"
+        android:layout_height="wrap_content">
+    </Button>
+
+</LinearLayout>
